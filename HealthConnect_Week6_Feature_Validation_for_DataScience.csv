@@ -1,0 +1,5 @@
+categorical_feature,chi2,p_value,cramers_v,significant_at_0.05
+lead_time_group,339.02,3.5125675954639045e-70,0.184,True
+prev_noshow_bucket,82.0,1.3824756203086554e-15,0.091,True
+reminder_sent,10.2,0.006098674264264667,0.045,True
+appointment_type,10.53,0.10415293413865326,0.032,False
